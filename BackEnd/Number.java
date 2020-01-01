@@ -1,4 +1,4 @@
-//I am Osama Hussein Dawood
+
 public class Number implements Token, Expression {
 	
     int number;

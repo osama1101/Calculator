@@ -1,4 +1,4 @@
-//I am Osama Hussein Dawood
+
 import javax.swing.UIManager;
 import java.awt.*;
 import java.awt.event.*;
